@@ -1,0 +1,152 @@
+@media (min-width: 0px) and (max-width: 376px) {
+  #header-section {
+    transform: translateY(7rem);
+    text-align: center;
+  }
+  .center-div {
+    margin-left: 0;
+  }
+  .main-box {
+    margin: auto;
+    width: 36vw;
+  }
+  .header {
+    height: 85vh;
+  }
+  .img-style img {
+    height: 50vh;
+    width: 92vw;
+  }
+  .pad_Style {
+    width: 75vw;
+    text-align: center;
+  }
+  .centered-text {
+    text-align: center;
+  }
+  .space-from-top {
+    margin-top: 2rem;
+  }
+  .align-text-center {
+    text-align: center;
+  }
+  .image-fluid {
+    display: none;
+  }
+
+  .box-style {
+    margin: 3rem 0;
+  }
+  .paddin{
+    padding-top: 3rem;
+    font-size: 27px;
+  }
+  .box-1 input, #issues{
+    width: 70vw;
+    margin: 0rem 2rem;
+    padding: 0.8rem 0.3rem;
+    border-radius: 7px;
+  }
+  .box-3 textarea{
+    width: 90vw;
+  }
+  .wid-style{
+    height: 80vh;
+  }
+  .footer-padding h1{
+    font-size: 14px;
+  }
+}
+@media (min-width: 377px) and (max-width: 415px) {
+  .header {
+    height: 80vh;
+  }
+  #header-section {
+    transform: translateY(7rem);
+    text-align: center;
+  }
+  .center-div {
+    margin-left: 0;
+  }
+  .main-box {
+    margin: auto;
+    width: 36vw;
+  }
+  .paddin{
+    width: 92vw;
+  }
+  .img-style img {
+    height: 50vh;
+    width: 90vw;
+  }
+  .centered-text {
+    text-align: center;
+  }
+  .pad_Style {
+    text-align: center;
+  }
+  .space-from-top {
+    margin-top: 3rem;
+  }
+  .align-text-center {
+    text-align: center;
+  }
+  .image-fluid {
+    display: none;
+  }
+  .box-style {
+    margin: 3rem 0;
+  }
+  .box-1 input, #issues{
+    width: 70vw;
+    margin: 0rem 2rem;
+    padding: 0.8rem 0.3rem;
+    border-radius: 7px;
+  }
+  .box-3 textarea{
+    width: 90vw;
+  }
+  
+  .footer-padding h1{
+    font-size: 14px;
+  }
+}
+@media (min-width: 416px) and (max-width: 770px) {
+  .header {
+    height: 63vh;
+  }
+  .container > a {
+    font-size: 2rem;
+  }
+  #header-section {
+    height: 25vh;
+    transform: translateY(8rem);
+  }
+  .response-style {
+    width: 90vw;
+  }
+  .img-style img {
+    height: 55vh;
+    width: 45vw;
+  }
+  .align-text-center {
+    text-align: center;
+  }
+  .image-fluid {
+    height: 35vh;
+    width: 50vw;
+    transform: translateX(10rem);
+  }
+}
+@media (min-width: 771px) and (max-width: 1024px) {
+  .header {
+    height: 50vh;
+  }
+  .img-style img {
+    height: 33vh;
+    width: 50vw;
+  }
+  .image-fluid{
+    height: 33vh;
+  }
+}
