@@ -3,6 +3,7 @@
     transform: translateY(7rem);
     text-align: center;
   }
+
   .center-div {
     margin-left: 0;
   }
@@ -11,6 +12,9 @@
     width: 36vw;
   }
   .header {
+    height: 85vh;
+  }
+  .back_color{
     height: 85vh;
   }
   .img-style img {
@@ -38,8 +42,9 @@
     margin: 3rem 0;
   }
   .paddin{
-    padding-top: 3rem;
-    font-size: 27px;
+    padding-top: 1rem;
+    font-size: 1.3rem;
+    width: 100vw;
   }
   .box-1 input, #issues{
     width: 70vw;
@@ -48,7 +53,10 @@
     border-radius: 7px;
   }
   .box-3 textarea{
-    width: 90vw;
+    width: 80vw;
+  }
+  .button-style{
+    width: 70vw;
   }
   .wid-style{
     height: 80vh;
